@@ -1,2 +1,2 @@
 # My Page Web 
- Minha primeira página web profissional que usarei para me apresentar!
+ Fiz um website bem simples, apenas para me apresentar na comunidade.

@@ -1,0 +1,65 @@
+body {
+    
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgb(151, 90, 146), rgb(241, 241, 241));
+    
+}
+
+
+.container {
+    display: flex;
+    margin-top: 6%;
+    margin-left: 30%;
+    background: white;
+    width: 700px;
+    border-radius: 3%;
+}
+
+#texto {
+    font-family: sans-serif;
+    margin-top: 3%;
+    margin-left: 5%;
+    color: rgb(70, 69, 71);
+}
+h2{
+font-size: 8pt;
+color: rgb(136, 135, 136);
+}
+h1{
+  color: black; 
+  font-size: 29pt;
+}
+h5{
+    font-size: 9pt;
+}
+P{
+    font-size: 11pt;
+    line-height: 15pt;
+}
+
+#fotoperfil {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 2%;
+    
+
+}
+
+img {
+    border-radius: 2%;  
+}
+
+#icones{
+    line-height: 25pt;
+    color: rgb(70, 69, 71);
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+
+#redesocial{
+    color: rgb(165, 164, 167);
+    letter-spacing: 9pt;
+    margin-top: 5%;
+}
+
